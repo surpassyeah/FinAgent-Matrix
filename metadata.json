@@ -1,0 +1,6 @@
+{
+  "name": "DeepInvest AI - 多 Agent 自动化投研系统",
+  "description": "基于多 Agent 协作的深度投研与风控系统，通过信息嗅探、深度剖析、红蓝对抗及自动排版，将海量财报转化为深度研报。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered financial research", "Multi-agent collaboration", "Risk sentiment analysis", "Automated report generation"]
+}
